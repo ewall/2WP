@@ -1,0 +1,12 @@
+2WP - utilities for importing content into WordPress 3.0
+
+I hope to convert some blog-ish content from several sources (including
+an old Blogger template and PostNuke CMS) into the latest version of
+WordPress (currently, that is v3.0).
+
+This may or may not be of use to someone else, but if it is, enjoy!
+
+- model.py is the WordPress data model for SQLAlchemy/Elixir
+
+  ~ewall <e@ewall.org>
+   9 July 2010
