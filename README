@@ -6,7 +6,10 @@ WordPress (currently, that is v3.0).
 
 This may or may not be of use to someone else, but if it is, enjoy!
 
-- model.py is the WordPress data model for SQLAlchemy/Elixir
+- model.py is the WordPress data model for SQLAlchemy/Elixir (unused)
+
+- dominate.py uses minidom to take an ATOM XML input (e.g. Blogger export),
+  clean it up, and reverse the order so the result is earliest to latest
 
   ~ewall <e@ewall.org>
-   9 July 2010
+   July 2010
